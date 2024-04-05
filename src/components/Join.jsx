@@ -7,7 +7,7 @@ const Join = () => {
                 <h1>Join over 10 million people</h1>
                 <h1>learning on Brilliant</h1>
             </div>
-            <button className='px-2 h-10 sm:px-6 sm:py-2 lg:mr-40 bg-green-500 text-white rounded-md font-semibold'>Get started</button>
+            <button className='px-2 h-10 w-32 sm:px-6 sm:w-auto sm:py-2 lg:mr-40 bg-green-500 text-white rounded-md font-semibold'>Get started</button>
         </div>
     )
 }
